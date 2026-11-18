@@ -1,0 +1,13 @@
+{
+  "name": "waiting-buddy",
+  "owner": {
+    "name": "Jason Sutter"
+  },
+  "plugins": [
+    {
+      "name": "waiting-buddy",
+      "source": "./"
+    }
+  ],
+  "description": "waiting-buddy: a disc golfer (or a woodcutter) above the Claude Code prompt while background tasks run."
+}

@@ -1,0 +1,10 @@
+{
+  "name": "waiting-buddy",
+  "version": "0.1.0",
+  "description": "A little buddy above your prompt while Claude's background tasks run: a disc golfer throwing for aces (or a woodcutter chopping trees), what's running and for how long, and a cheer when it finishes. /scene disc | wood.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Jason Sutter"
+  },
+  "license": "MIT"
+}
